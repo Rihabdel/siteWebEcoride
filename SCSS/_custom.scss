@@ -2,10 +2,12 @@
 // Option A: Include all of Bootstrap
 
 // Include any default variable overrides here (though functions won’t be available)
-$primary: #42825F;
+$primary: #376e62;
 $secondary:#63A17F ;
-$dark:#72AB9E    ;
+$dark:   #04473b ;
 $black:  #292222;
+$background: #252c28;
+$surface: #244b3d;
 $font-family-sans-serif: "Montserrat", sans-serif !default;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
