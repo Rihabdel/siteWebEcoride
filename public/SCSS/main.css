@@ -12008,10 +12008,11 @@ footer.footer {
   width: 100%;
   height: 100%;
   position: absolute;
-  background-image: url(/images/Capture\ d’écran\ 2025-10-21\ 230844.png);
+  background-image: url(/public/images/Capture\ d’écran\ 2025-10-22\ 020717.png);
   background-size: cover;
   background-position: center;
   filter: brightness(0.6);
+  background-color: cadetblue;
 }
 .hero-scene * {
   position: relative;

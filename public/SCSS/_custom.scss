@@ -10,8 +10,8 @@ $background: #252c28;
 $surface: #244b3d;
 $font-family-sans-serif: "Montserrat", sans-serif !default;
 
-@import "../node_modules/bootstrap/scss/bootstrap";
-@import url("/node_modules/bootstrap-icons/font/bootstrap-icons.css");
+@import "..public/node_modules/bootstrap/scss/bootstrap";
+@import url("/public/node_modules/bootstrap-icons/font/bootstrap-icons.css");
 
 // Then add additional custom code here
 
